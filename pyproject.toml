@@ -1,0 +1,11 @@
+[project]
+name = "opencv-ws"
+version = "0.1.0"
+description = "Reusable OpenCV experiments and utilities"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "matplotlib>=3.9.4",
+    "numpy>=2.0.2",
+    "opencv-python>=5.0.0.93",
+]
